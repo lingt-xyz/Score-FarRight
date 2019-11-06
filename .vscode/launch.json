@@ -5,7 +5,8 @@
             "name": "CodeLens (Launch) - Driver",
             "request": "launch",
             "mainClass": "Driver",
-            "projectName": "Score-FarRight_f9bf8375"
+            "projectName": "Score-FarRight_f9bf8375",
+            "args": "2 3 1 0"
         }
     ]
 }
